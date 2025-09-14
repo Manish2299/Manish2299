@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
 </p>
 
-### ⚙️ Infrastructure as Code & CI/CD
+### ⚙️ IaC & CI/CD
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
@@ -37,8 +37,8 @@
 
 ### 🛡️ Security & Quality
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/trivy-icon-512x512-7c6z4ggv.png" title="Trivy" alt="Trivy" width="50" height="50"/>&nbsp;
-  <img src="https://www.sonarqube.org/logos/index/sonarqube-logo.svg" title="SonarQube" alt="SonarQube" width="120" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/assets/trivy-logo.png" title="Trivy" alt="Trivy" width="80" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" title="SonarQube" alt="SonarQube" width="50" height="50"/>&nbsp;
 </p>
 
 ### 📦 Build Tools & Monitoring
@@ -65,15 +65,16 @@
 
 ---
 
-✨ _Always learning, always automating, always scaling!_
- 
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:manish@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect With Me  
-
-💼 [LinkedIn](https://www.linkedin.com/)  
-📧 manish@example.com  
-
----
-✨ _“First automate the boring stuff, then innovate the exciting stuff.”_  
+✨ _“First automate the boring stuff, then innovate the exciting stuff!”_
