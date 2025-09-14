@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Manish+Kumar;🚀+DevOps+Engineer;☁️+AWS+%7C+Kubernetes+%7C+Terraform;⚡+CI%2FCD+%7C+Cloud+%7C+Automation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Manish+Kumar;🚀+DevOps+Engineer;☁️+AWS+%7C+Kubernetes+%7C+Terraform;⚡+CI%2FCD+%7C+Cloud+%7C+Automation" alt="Typing Animation" />
 </h1>
 
 ---
