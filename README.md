@@ -37,13 +37,13 @@
 
 ### 🛡️ Security & Quality
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/trivy-icon-512x512-7c6z4ggv.png" title="Trivy" alt="Trivy" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube logo"> SonarQube - Code quality analysis
+  <img src="https://img.shields.io/badge/Trivy-Security%20Scanner-9A90E8?style=flat&#x26;logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAwQzUuMzcyNTUgMCAwIDUuMzcyNTUgMCAxMkMwIDE4LjYyNzUgNS4zNzI1NSAyNCAxMiAyNEMxOC42Mjc1IDI0IDI0IDE4LjYyNzUgMjQgMTJDMjQgNS4zNzI1NSAxOC42Mjc1IDAgMTIgMFpNMTIgMjJDNi40ODc3MyAyMiAyIDE3LjUxMjMgMiAxMkMyIDYuNDg3NzMgNi40ODc3MyAyIDEyIDJDMTEuNTA5NCAyIDYuNTEyMyA2LjQ4NzczIDYuNTEyMyAxMkM2LjUxMjMgMTcuNTEyMyAxMS41MDk0IDIyIDEyIDIyWk0xOC4wMDAwIDIwLjAwMDBDMTguMDAwMCAxOS4wMDAwIDE3LjAwMDAgMTguMDAwMCAxNi4wMDAwIDE4LjAwMDBDMTUuMDAwMCAxOC4wMDAwIDE0LjAwMDAgMTkuMDAwMCAxNC4wMDAwIDIwLjAwMDBDMTQuMDAwMCAyMS4wMDAwIDE1LjAwMDAgMjIuMDAwMCAxNi4wMDAwIDIyLjAwMDBDMTcuMDAwMCAyMi4wMDAwIDE4LjAwMDAgMjEuMDAwMCAxOC4wMDAwIDIwLjAwMDBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&#x26;logoColor=white" height="40" alt="Trivy logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube logo">&nbsp;
 </p>
 
 ### 📦 Build Tools & Monitoring
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" alt="Maven logo">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>&nbsp;
 </p>
