@@ -58,10 +58,10 @@
 
 ---
 
-## 🎥 Fun Animation (Matrix Style)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JoaoRodrigues10/matrix-rain-animation/main/matrix.svg" alt="Matrix Animation" width="600" />
-</p>
+Contact Me
+
+📫 Email: [mk634184@gmail.com]
+
 
 ---
 
